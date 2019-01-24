@@ -3,7 +3,7 @@
 /**
 *
 * Auto Ban [Brazilian Portuguese [pt_br]] 
-* Brazilian Portuguese  translation by eunaumtenhoid (c) 2017 [ver 1.0.1-1] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese  translation by eunaumtenhoid [2017][ver 1.0.1-1] (https://github.com/phpBBTraducoes)
 * @package language
 * @version $Id$
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
